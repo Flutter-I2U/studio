@@ -117,9 +117,18 @@ Found a bug or have an idea for a new feature? We'd love to hear from you!
 - **Feature Requests**: [Start a discussion](https://github.com/yourusername/studio/discussions) to share your ideas
 - **Questions**: Check our [FAQ](docs/faq.md) or join our community discussions
 
-## 📄 License
+## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**Studio** is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+This means:
+
+* ✅ You can **use, modify, and distribute** this project for free.
+* ✅ You can **build commercial products** using this project.
+* ⚠️ **If you distribute modified versions**, you **must** also make your source code available under the same GPL-3.0 license.
+* ❌ You **cannot** take this code, make it closed-source, and keep the changes to yourself.
+
+The full legal text of the license is available in the [LICENSE](LICENSE) file or at [GNU.org](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 ## 🙏 Acknowledgments
 
